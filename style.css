@@ -1,0 +1,27 @@
+body {
+  background-color: #000000;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  color: #00ff00;
+  display: inline;
+}
+
+input {
+  background-color: #101010;
+  border: 2px solid #202020;
+  color: #00ff00;
+}
+
+button {
+  background-color: #101010;
+  border: 2px solid #202020;
+  border-radius: 6px;
+  padding: 5px;
+  margin-top: 5px;
+  width: 36px;
+  color: #00ff00;
+}
+
+#login-code { margin: 15px; }
